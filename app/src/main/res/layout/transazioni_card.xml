@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="0dp"
+    app:cardBackgroundColor="@color/transparent"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/transazioni_background"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/identificativo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/id_transazione"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/importo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/importo_transazione"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/carta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/numero_carta"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/data_e_ora_transazione"
+            android:textSize="20dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile_home_menu"
+        android:title="Profilo"
+        android:icon="@drawable/person_icon" />
+
+    <item android:id="@+id/dati_pagamento_home_menu"
+        android:title="Dati di pagamento"
+        android:icon="@drawable/credit_card_icon" />
+
+    <item android:id="@+id/prenotazioni_home_menu"
+        android:title="Prenotazioni"
+        android:icon="@drawable/prenotation_icon" />
+
+    <item android:id="@+id/transazioni_home_menu"
+        android:title="Transazioni"
+        android:icon="@drawable/payments_icon" />
+
+    <item android:id="@+id/preferiti_home_menu"
+        android:title="Preferiti"
+        android:icon="@drawable/empty_star" />
+
+    <item android:title="Altro">
+        <menu>
+
+            <item android:id="@+id/contatti_home_menu"
+                android:title="Contatti"
+                android:icon="@drawable/contact_icon"/>
+
+            <item android:id="@+id/logout_home_menu"
+                android:title="Logout"
+                android:icon="@drawable/logout_icon" />
+        </menu>
+    </item>
+
+</menu>

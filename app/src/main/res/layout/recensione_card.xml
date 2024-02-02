@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:backgroundTint="@color/transparent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:background="@color/azure">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/titolo_nuova_recensione"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Titolo" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <RatingBar
+                android:id="@+id/rating_recensione"
+                style="@style/Widget.AppCompat.RatingBar.Small"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/autore_recensione"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Autore" />
+
+        <TextView
+            android:id="@+id/descrizione_recensione"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/default_card_description" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

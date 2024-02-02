@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">QNSolutions</string>
+    <string name="password_dimenticata"><u>Password dimenticata?</u></string>
+    <string name="indietro"><u>Indietro</u></string>
+    <string name="email_text">Email</string>
+    <string name="name_text">Nome</string>
+    <string name="phone_text">Cellulare</string>
+    <string name="sesso_error_text">Campo non inserito</string>
+    <string name="femmina_radio">Femmina</string>
+    <string name="maschio_radio">Maschio</string>
+    <string name="altro_radio">Altro</string>
+    <string name="password_text">Password</string>
+    <string name="registrati_text">Registrati</string>
+    <string name="seleziona_data_button_des">selezionaDataButon</string>
+    <string name="data_error">Nessuna data selezionata</string>
+    <string name="condition_text">Accetto i termini e le condizioni</string>
+    <string name="conferma_password_text">Conferma Password</string>
+    <string name="residenza_text">Residenza</string>
+    <string name="cognome_text">Cognome</string>
+    <string name="notification_button_description">NotificationButton</string>
+    <string name="menu_button_description">MenuButton</string>
+    <string name="contatti_mail_title">Email:</string>
+    <string name="contatti_mail1">samuele.quartuccio@community.unipa.it</string>
+    <string name="contatti_mail2">giovanni.nevaloro@community.unipa.it</string>
+    <string name="contatti_phone">+39 327 963 0596</string>
+    <string name="contatti_title"><b>Contatti</b></string>
+    <string name="contatti_phone_title">Cellulare:</string>
+    <string name="open_drower">Open</string>
+    <string name="close_drower">Close</string>
+    <string name="bottone_espansione_card_attrazione">bottone espansione card attrazione</string>
+    <string name="id_transazione">ID:</string>
+    <string name="importo_transazione">Importo:</string>
+    <string name="numero_carta">Numero Carta:</string>
+    <string name="data_e_ora_transazione">Data e Ora:</string>
+    <string name="query_succesfull">response_succesfull</string>
+    <string name="query_failed">Errore di formattazione</string>
+    <string name="query_error">Errore di rete</string>
+    <string name="query_format_error">sql_error</string>
+    <string name="default_password">Password123!</string>
+    <string name="default_description">campo del profilo</string>
+    <string name="telefono_profilo">Telefono:</string>
+    <string name="modifica_data_button">Modifica</string>
+    <string name="data_di_nascita_profilo">Data di nascita:</string>
+    <string name="residenza_profilo">Residenza:</string>
+    <string name="sesso_profilo">Sesso:</string>
+    <string name="password_profilo">Password:</string>
+    <string name="email_profilo">Email:</string>
+    <string name="cognome_profilo">Cognome:</string>
+    <string name="nome_profilo">Nome:</string>
+    <string name="modifica_profilo">Modifica</string>
+    <string name="default_phone">0000000000</string>
+    <string name="default_card_description">Testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo, testo</string>
+    <string name="default_image_path">media/images/qnsolutions/default_image.jpg</string>
+    <string name="numero_carta_pagamento">Numero: </string>
+    <string name="cvv">CVV: </string>
+    <string name="data_di_scadenza">Data di scadenza: </string>
+    <string name="luogo_prenotazione_card">Luogo prenotazione:</string>
+    <string name="id_transazione_prenotazione_card">ID transazione:</string>
+    <string name="data_e_ora_prenotazione_card">Data e ora:</string>
+    <string name="numero_prenotati_prenotazione_card">Numero prenotati:</string>
+    <string name="sample_tipo">Sample tipo</string>
+    <string name="visualizza_attazione_indirizzo_text">Indirizzo:</string>
+    <string name="visualizza_attazione_citta_text">Città:</string>
+    <string name="visualizza_attazione_categoria_text">Categoria:</string>
+    <string name="visualizza_attazione_nome_text">Nome:</string>
+    <string name="visualizza_attazione_numero_di_telefono_text">Numero di telefono:</string>
+    <string name="visualizza_attazione_prezzo_medio_text">Prezzo medio:</string>
+    <string name="costo_del_biglietto_text">Costo del biglietto:</string>
+    <string name="prenota_button">Prenota</string>
+    <string name="annulla_button">Annulla</string>
+    <string name="data_prenotazione_field">Data prenotazione: </string>
+    <string name="conferma_button">Conferma</string>
+    <string name="cvv_attrazione_panel">CVV:</string>
+    <string name="numero_carta_attrazione_panel">Numero Carta:</string>
+    <string name="numero_di_persone_hint">Numero di persone</string>
+    <string name="recensioni_button">Recensioni</string>
+    <string name="titolo_recensione">Titolo recensione</string>
+    <string name="titolo_hint">Titolo</string>
+    <string name="descrizione_hint">Descrizione</string>
+    <string name="salva_button">Salva</string>
+    <string name="mostra_menu_button">Mostra menù</string>
+    <string name="orario_apertura">Orario apertura:</string>
+    <string name="orario_chiusira">Orario chiusira:</string>
+    <string name="numero_coperti_disponibili">Numero coperti disponibili:</string>
+    <string name="cucina">Cucina:</string>
+    <string name="risposta_a">A:</string>
+    <string name="risposta_b">B:</string>
+    <string name="risposta_c">C:</string>
+    <string name="risposta_d">D:</string>
+    <string name="numero_camera">0 su 0</string>
+    <string name="numero_singole">Singole:</string>
+    <string name="numero_doppie">Doppie:</string>
+    <string name="numero_triple">Triple:</string>
+    <string name="numero_quadruple">Quadruple:</string>
+    <string name="data_inizio_text">Data inizio:</string>
+    <string name="data_fine_text">Data fine:</string>
+    <string name="ora_partenza">Ora partenza:</string>
+    <string name="ora_rientro">Ora rientro:</string>
+    <string-array name="sessi_profilo">
+        <item>Maschio</item>
+        <item>Femmina</item>
+        <item>Altro</item>
+    </string-array>
+    <string-array name="mesiSpiner">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="cucinaFilter">
+        <item>Nessun filtro</item>
+        <item>Pizza</item>
+        <item>Gastronomia</item>
+        <item>Pasticceria</item>
+        <item>Panini</item>
+        <item>Sushi</item>
+    </string-array>
+    <string-array name="tipoAttrazioneFilter">
+        <item>Nessun filtro</item>
+        <item>Ristorante</item>
+        <item>Hotel</item>
+        <item>Attrazione</item>
+    </string-array>
+    <string-array name="prezzoFilter">
+        <item>Nessun filtro</item>
+        <item>fino a 5€</item>
+        <item>fino a 10€</item>
+        <item>fino a 20€</item>
+        <item>fino a 50€</item>
+        <item>fino a 100€</item>
+        <item>fino a 200€</item>
+        <item>fino a 500€</item>
+        <item>fino a 1000€</item>
+    </string-array>
+    <string-array name="ratingFilter">
+        <item>Nessun filtro</item>
+        <item>1 stella</item>
+        <item>2 stelle</item>
+        <item>3 stelle</item>
+        <item>4 stelle</item>
+        <item>5 stelle</item>
+    </string-array>
+    <string-array name="mezziSpinner">
+        <item>Autonomo</item>
+        <item>Treno</item>
+        <item>Aereo</item>
+        <item>Nave</item>
+    </string-array>
+</resources>
